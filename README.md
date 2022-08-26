@@ -1,11 +1,11 @@
-
+[![Build status](https://ci.appveyor.com/api/projects/status/cj6qs3t87oey5l1i?svg=true)](https://ci.appveyor.com/project/Sergl82/ra-diplom-bq02e)
 
 # ra-diplom
 
 ## Интернет-магазин обуви "Bosa nova"
 
 ## Запуск приложения
-Для запуска приложения перейдите по ссылке: 
+Для запуска приложения перейдите по ссылке: https://sergl82.github.io/ra-diplom/
 
 
 ## Описание
